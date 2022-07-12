@@ -15,3 +15,5 @@ $ git config --global user.email"vkishor5033@gmail.com"
 $ git remote add origin https://github.com/vkishor503/Wipro.git
 
 $ git push -u origin master
+
+it is done from my side.
