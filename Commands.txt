@@ -1,0 +1,17 @@
+$ git init
+
+$ git status 
+
+$ git add .
+
+$ git status
+
+$ git commit -m"from wipro"
+
+$ git config --global user.name"vkishor503"
+
+$ git config --global user.email"vkishor5033@gmail.com"
+
+$ git remote add origin https://github.com/vkishor503/Wipro.git
+
+$ git push -u origin master
